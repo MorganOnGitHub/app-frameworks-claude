@@ -1,3 +1,6 @@
+## Missing Functionality
+GraphQL not correctly implemented, missing GraphQLController, Query and Mutation Mappings.
+
 ## Full Prompt Verbatim
 
 I need you to build a Spring Boot application exposing a RESTful API that manages planets and moons.
